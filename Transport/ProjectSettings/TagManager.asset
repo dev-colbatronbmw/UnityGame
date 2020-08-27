@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedFlag
+  - RedKey
+  - RedLock
+  - hasRedKeyUI
+  - Enemy
+  - LockedDoor
+  - OpenDoor
+  - YellowKey
+  - YellowLock
+  - RedKeyBG
+  - YellowKeyBG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1890945569
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entity
+    uniqueID: 1294079739
+    locked: 0
+  - name: Ground
+    uniqueID: 3884916607
+    locked: 0
